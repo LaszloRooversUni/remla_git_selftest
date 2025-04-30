@@ -12,7 +12,7 @@ public class HelloWorld {
     @GetMapping("/")
     @ResponseBody
     public String index() {
-        return "Hello world!";
+        return "HELLO WORLD!";
     }
 }
     
